@@ -1,1 +1,1 @@
-angular.module('cadastroFotos')
+angular.module('cadastroFotos', [])
